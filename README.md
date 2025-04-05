@@ -22,16 +22,16 @@
 
         .header-content h1 {
             font-size: 2.8rem;
-             
-        } 
+            
+        }
         img{
         position: absolute;
             width: 180px;
             height: 180px;
-		border-radius:100px;
+border-radius:100px;
             top: 15px;
             left: 350px; 0
-}  
+} 
 
         .profile-picture {
             width: 130px;
@@ -94,7 +94,6 @@
                 }
         }
 
-
         .download-button {
             background-color: #ffcc00;
             color: #000;
@@ -124,8 +123,8 @@
         <div class="header-content">
 <img src= "C:\prasabth\ora.jpg" alt="Description of Image" width="300" height="300">
             <h1>PRASANTH S</h1>
-                
-            <p>Aspiring Software Developer & Tech Enthusiast</p>
+               
+            <p>Bachelor of Computer Applications</p>
         </div>
     </header>
 
@@ -191,18 +190,17 @@
         </div>
     </section>
 
- <section id="Links">
+<section id="Links">
         <div class="section-Links">
             <h2>SocilMedia Links</h2>
             <ul>
-                
+               
                 <a href="https://www.linkedin.com/in/prasanth-s-22a133324">LinkedIn</a><br>
                 <a href="https://github.com/prasanth2412">GitHub</a>
 
             </ul>
         </div>
     </section>
-
 
     <section id="resume">
         <div class="section-content">
@@ -216,3 +214,6 @@
     </footer>
 </body>
 </html>
+
+
+On Wed, Apr 2, 2025, 10:55 PM Prasanth Prasanth <prasanth24022006@gmail.com> wrote:
